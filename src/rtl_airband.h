@@ -83,7 +83,7 @@
 #define TAG_QUEUE_LEN 16
 #define MAX_MIXINPUTS 32
 
-#define MIN_FFT_SIZE_LOG 8
+#define MIN_FFT_SIZE_LOG 4
 #define DEFAULT_FFT_SIZE_LOG 9
 #define MAX_FFT_SIZE_LOG 13
 
